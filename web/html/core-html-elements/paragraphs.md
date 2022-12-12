@@ -37,9 +37,9 @@ Paragraph Result:
 The defaults of paragraphs:
 
 - The font size is 16px (pixels).
-- The alignment is left aligned.
+- The alignment follows the language direction of the document: it is left aligned on left-to-right languages (English, Italian…) and right aligned on right-to-left language (Arabic, Hebrew…).
 - The font family is Times New Roman.
-- There is a margin of space around the top and bottom of each paragraph that is typically 1em.
+- There is agx margin of space around the top and bottom of each paragraph that is typically 1em.
 
 
 ---
